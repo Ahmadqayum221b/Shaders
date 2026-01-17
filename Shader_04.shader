@@ -1,4 +1,4 @@
-Shader "MyCustomShader/Shader_04"
+Shader "PulseEffect/Shader_04"
 {
     Properties
     {
@@ -64,4 +64,5 @@ Shader "MyCustomShader/Shader_04"
             ENDCG
         }
     }
+
 }
