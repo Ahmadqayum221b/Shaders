@@ -1,4 +1,4 @@
-Shader "MyCustomShader/Shader_03"
+Shader "OutlineShader/Shader_03"
 {
     Properties
     {
@@ -92,4 +92,5 @@ Shader "MyCustomShader/Shader_03"
             ENDCG
         }
     }
+
 }
